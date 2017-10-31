@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW06</string>
+    <string name="activity">This is Activity</string>
+    <string name="fragment_1">This is Fragment 1.\r\nClick to hide</string>
+    <string name="fragment_2">This is Fragment 2.\r\nClick to hide</string>
+    <string name="button_1">Show Fragment 1</string>
+    <string name="button_2">Show Fragment 2</string>
+</resources>
