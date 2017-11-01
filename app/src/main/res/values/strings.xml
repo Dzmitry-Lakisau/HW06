@@ -5,4 +5,9 @@
     <string name="fragment_2">This is Fragment 2.\r\nClick to hide</string>
     <string name="button_1">Show Fragment 1</string>
     <string name="button_2">Show Fragment 2</string>
+    <string name="go_to_2">Go to Second Activity</string>
+    <string name="go_to_fragment_activity">Go to Fragment activity</string>
+    <string name="chekbox">Start Third Activity with \"Clear Top\" Flag</string>
+    <string name="go_to_3">Go to Third Activity</string>
+    <string name="start_service">Append string in Service</string>
 </resources>

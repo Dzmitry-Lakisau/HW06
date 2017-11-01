@@ -16,6 +16,19 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".SecondActivity"
+            android:launchMode="singleTop"/>
+
+        <activity android:name=".ThirdActivity"/>
+
+        <activity android:name=".FragmentActivity"/>
+
+        <service android:name=".AppendStringsService"/>
+
+        <receiver android:name=".MainActivity$MyBroadcastReceiver"/>
+
     </application>
 
 </manifest>
